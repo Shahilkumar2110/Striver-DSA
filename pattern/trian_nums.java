@@ -200,7 +200,7 @@ public class trian_nums {
         Scanner sc=new Scanner (System.in);
         System.out.print("enter the value of line or rows: ");
         int n=sc.nextInt();
-        pattern12(n);
+        pattern7(n);
         
         
     }

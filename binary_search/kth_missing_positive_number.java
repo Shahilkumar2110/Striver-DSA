@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 
 
-
 public class kth_missing_positive_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
