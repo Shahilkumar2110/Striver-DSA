@@ -14,6 +14,7 @@ public class bubblesort {
         showarray(arr);
 
         sort(arr, n);
+        
         System.out.println("after sorting: ");
         showarray(arr);
 
