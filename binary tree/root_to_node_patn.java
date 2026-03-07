@@ -13,7 +13,9 @@ class TreeNode {
 
 
 public class root_to_node_patn {
-     static ArrayList<Integer> result=new ArrayList<>();
+    
+    static ArrayList<Integer> result=new ArrayList<>();
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         TreeNode root = new TreeNode(1);
