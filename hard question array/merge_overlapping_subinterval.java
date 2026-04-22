@@ -36,16 +36,16 @@ import java.util.Scanner;
 
 //         ArrayList<int[]> answer = new ArrayList<>();
 
-//         for (int i = 0; i < n; i++) {
-//             int start = arr.get(i)[0];
-//             int end = arr.get(i)[1];
+        // for (int i = 0; i < n; i++) {
+        //     int start = arr.get(i)[0];
+        //     int end = arr.get(i)[1];
 
-//             if (!answer.isEmpty() && start <= answer.get(answer.size() - 1)[1]) {
-//                 answer.get(answer.size() - 1)[1] = Math.max(end, answer.get(answer.size() - 1)[1]);
-//             } else {
-//                 answer.add(new int[]{start, end});
-//             }
-//         }
+        //     if (!answer.isEmpty() && start <= answer.get(answer.size() - 1)[1]) {
+        //         answer.get(answer.size() - 1)[1] = Math.max(end, answer.get(answer.size() - 1)[1]);
+        //     } else {
+        //         answer.add(new int[]{start, end});
+        //     }
+        // }
 
 //         System.out.println("Final intervals are:");
 //         for (int[] interval : answer) {

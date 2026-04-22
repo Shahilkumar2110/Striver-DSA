@@ -17,7 +17,6 @@ class TreeNode {
 }
 
 
-
 public class count_total_number_of_node_in_complete_binarytree {
     public static void main(String[] args) {                          
         TreeNode root = new TreeNode(1);
